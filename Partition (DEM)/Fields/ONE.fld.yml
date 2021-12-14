@@ -1,5 +1,5 @@
 ﻿Field:
-  Name:               ONE
+  Name:               Name
   Type:               Alpha
   Length:             10
   Decimals:           0
@@ -12,11 +12,11 @@
 
   Multilingual Details:
   - ENG:
-      Description:        "Two"
-      Label:              "Two"
-      Heading1:           "Two"
+      Description:        "Test"
+      Label:              "Test"
+      Heading1:           "Test"
 
   - FRA:
-      Description:        "Two"
-      Label:              "Two"
-      Heading1:           "Two"
+      Description:        "Test"
+      Label:              "Test"
+      Heading1:           "Test"
